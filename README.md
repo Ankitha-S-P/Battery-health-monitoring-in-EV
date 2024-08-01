@@ -1,6 +1,5 @@
 # Battery health monitoring in EV
 This project is a Battery Health Monitoring System designed to ensure the optimal performance and safety of electric vehicle (EV) batteries. The system uses the following components:
-
 -Potentiometers: Two potentiometers measure battery voltage and current.
 -DHT22 Sensor: Measures temperature and humidity to monitor environmental conditions.
 -LED Bulb: Provides visual warnings when battery parameters exceed safe thresholds.
