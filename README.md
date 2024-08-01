@@ -10,3 +10,4 @@ This project is a Battery Health Monitoring System designed to ensure the optima
 Simulation and Control:
 - The system simulation was implemented using Wokwi, a platform for online electronics simulation.
 - Real-time control and system status monitoring were managed through Blynk, allowing users to receive alerts and view battery health metrics remotely.
+Wokwi project link: https://wokwi.com/projects/405031448618155009
